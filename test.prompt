@@ -1,0 +1,4 @@
+#text to vector prompt
+<system>convert text to graph format</system>
+<system>Testing 123333 </system>
+<user>{user_query}</user>
